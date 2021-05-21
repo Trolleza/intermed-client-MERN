@@ -1,0 +1,55 @@
+.allContent {
+  /* overflow-x: hidden; */
+  background-image: url("../../assets/images/background-logo.png");
+  height: auto;
+  width: 100vw;
+  background-size: 100% auto;
+  background-position: center;
+  background-repeat: repeat;
+}
+
+.photo {
+  max-height: 10rem;
+  width: auto;
+  margin-right: 10rem;
+}
+
+.profile-box {
+  background-color: white;
+  border-radius: 5px;
+  width: 40rem;
+  height: auto;
+  padding-bottom: 2rem;
+}
+
+.img-profile {
+  margin-left: 2rem;
+  margin-right: 5rem;
+}
+
+/* .adressBox {
+  background-color: white;
+  border-radius: 5px;
+  width: 38rem;
+  height: 15rem;
+} */
+
+.buttonConfig {
+  margin-top: 2rem;
+  margin-right: 15rem;
+}
+
+.adress {
+  margin-top: -2rem;
+}
+
+.addressPatient {
+  margin-left: 1rem;
+}
+
+.buttonDelete {
+  margin-left: 1rem;
+}
+.userInfo {
+  margin-left: 3rem;
+}
